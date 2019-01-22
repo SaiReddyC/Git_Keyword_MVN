@@ -97,7 +97,7 @@
           <configuration>
                   <suiteXmlFiles>
                      <!--suiteXmlFile>src/test/resources/myautomationsuite.xml</suiteXmlFile-->
-                     <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+                     <suiteXmlFile>testng.xml</suiteXmlFile>
                   </suiteXmlFiles>
                </configuration>
           
